@@ -10,9 +10,13 @@ Workload Modelling
 
 Performance Testing WorkLoad Modelling https://www.youtube.com/watch?v=RWNN01NyG6I
 
+Open? Or Closed? On Workload Models for Performance Testing  https://www.stormforge.io/blog/open-closed-workloads/
+
 Steps to Design Workload Model in Performance Testing https://www.perfmatrix.com/design-workload-model-in-performance-testing/
 
 Workload Modelling 101  https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_fundamentals/workload_modelling_101/
+
+Workload Modeling - Preparing for Large Events like the Melbourne Cup https://www.flood.io/blog/workload-modeling-preparing-for-large-events-like-the-melbourne-cup
 
 
 JAVA JVM GC
