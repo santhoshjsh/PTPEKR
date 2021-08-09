@@ -133,6 +133,18 @@ JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Sc
 
 How to Choose a Code Profiling Tool https://smartbear.com/learn/code-profiling/how-to-choose-profiling-tools/
 
+10 best Java Profilers of all time – Compared https://www.dunebook.com/10-best-java-profiler/
+
+What is SQL Server Profiler? How It Works, Best Practices, Tutorials https://stackify.com/what-is-sql-server-profiler/
+
+An overview of the SQL Server Profiler https://www.sqlshack.com/an-overview-of-the-sql-server-profiler/
+
+Walkthrough: ASP.NET profiling with ANTS Performance Profiler https://www.red-gate.com/products/dotnet-development/ants-performance-profiler/walkthrough
+
+JProfiler Overview https://www.ej-technologies.com/products/jprofiler/features.html
+
+YourKit Java Profiler Features https://www.yourkit.com/java/profiler/features/
+
 
 Performance Testing Acceralators
 ---------------------------------
