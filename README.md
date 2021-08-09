@@ -8,12 +8,43 @@ Basics
 Workload Modelling
 ---------------------------
 
+Performance Testing WorkLoad Modelling https://www.youtube.com/watch?v=RWNN01NyG6I
 
+https://www.perfmatrix.com/design-workload-model-in-performance-testing/
+
+Workload Modelling 101  https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_fundamentals/workload_modelling_101/
 
 
 JAVA JVM GC
 ------------
 
+https://plumbr.io/java-garbage-collection-handbook
+
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+
+https://stackify.com/what-is-java-garbage-collection/
+
+Java Virtual Machine Garbage Collection and Its Performance Impact https://granulate.io/java-virtual-machine-garbage-collection-and-its-performance-impact/
+
+Understanding Java Garbage Collection Logging: What Are GC Logs and How to Analyze Them https://sematext.com/blog/java-garbage-collection-logs/
+
+JVM Internals in 1 slide https://blog.gceasy.io/2021/05/05/jvm-internals-in-1-slide/
+
+JVM arguments that you may find it useful https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications/
+
+Best practice for JVM Tuning with G1 GC https://backstage.forgerock.com/knowledge/kb/article/a75965340
+
+10 Important JVM Options for Production JAVA Application System https://geekflare.com/important-jvm-options/ 
+
+Tricks of the Trade: Tuning JVM Memory for Large-scale Services https://eng.uber.com/jvm-tuning-garbage-collection/ 
+
+Garbage collection in Java, with Animation and discussion of G1 GC https://www.youtube.com/watch?v=UnaNQgzw4zY
+
+Java enterprise performance  https://www.dynatrace.com/resources/ebooks/javabook/
+
+JVM ( java virtual machine) architecture - tutorial  https://www.youtube.com/watch?v=ZBJ0u9MaKtM
+
+Choose the best Garbage Collector in Java https://www.youtube.com/watch?v=2AZ0KKeXJSo
 
 
 .Net CLR GC
