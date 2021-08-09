@@ -10,7 +10,7 @@ Workload Modelling
 
 Performance Testing WorkLoad Modelling https://www.youtube.com/watch?v=RWNN01NyG6I
 
-https://www.perfmatrix.com/design-workload-model-in-performance-testing/
+Steps to Design Workload Model in Performance Testing https://www.perfmatrix.com/design-workload-model-in-performance-testing/
 
 Workload Modelling 101  https://tangowhisky37.github.io/PracticalPerformanceAnalyst/pages/spe_fundamentals/workload_modelling_101/
 
