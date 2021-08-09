@@ -32,6 +32,20 @@ Workload Modelling 101  https://tangowhisky37.github.io/PracticalPerformanceAnal
 Workload Modeling - Preparing for Large Events like the Melbourne Cup https://www.flood.io/blog/workload-modeling-preparing-for-large-events-like-the-melbourne-cup
 
 
+Monolithic vs. Microservices
+----------------------------
+
+Monolithic vs. Microservices Architecture https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
+
+Monolithic vs Microservices architecture https://www.geeksforgeeks.org/monolithic-vs-microservices-architecture/
+
+Monolithic vs microservices: choosing the architecture for your business app https://theappsolutions.com/blog/development/monolithic-vs-microservices/
+
+What You Should Know About Microservice Architecture  https://theappsolutions.com/blog/development/microservice-architecture-explained/
+
+Microservices vs Monolithic  https://sterling.com/microservices-vs-monolithic/
+
+
 JAVA JVM GC
 ------------
 
