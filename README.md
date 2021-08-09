@@ -109,7 +109,15 @@ JMeter
 
 Gatling
 --------
-![image](https://user-images.githubusercontent.com/8642143/128680651-c4bad716-8324-4373-b5ae-556aa313c9e8.png)
+https://academy.gatling.io/
+https://www.james-willett.com/gatling-load-testing-complete-guide/
+https://www.baeldung.com/introduction-to-gatling
+https://gatling.io/docs/gatling/reference/current/
+https://gatling.io/docs/gatling/reference/current/cheat-sheet/
+https://www.swtestacademy.com/gatling-load-test/
+
+Gatling : Performance Testing Tool - By Naveen AutomationLabs  https://www.youtube.com/playlist?list=PLFGoYjJG_fqpwTGqK7GKWW7z10jF1G3qw
+Performance Testing using Gatling - Beginner Level (FREE !!!) https://www.udemy.com/course/performance-testing-using-gatling/
 
 
 Locust
