@@ -125,7 +125,13 @@ AppDynamics Courseware https://appdynamics-cdn.s3.amazonaws.com/education/course
 Code Profilers
 -----------------
 
+A Guide to Java Profilers https://www.baeldung.com/java-profilers
 
+Guide to Java Profilers https://medium.com/platform-engineer/guide-to-java-profilers-e344ce0339e0
+
+JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale https://eng.uber.com/jvm-profiler/
+
+How to Choose a Code Profiling Tool https://smartbear.com/learn/code-profiling/how-to-choose-profiling-tools/
 
 
 Performance Testing Acceralators
