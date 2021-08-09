@@ -1,8 +1,21 @@
 # PTPEKR 
  <B> Performance Testing and Engineering Knowledge Repository  </B>
 
+
 Basics
 --------
+
+Performance Engineering: The What, The Why, and The How Explained https://dzone.com/articles/performance-engineering-the-what-why-and-hows-expl
+
+Performance Engineering - a Practitioner's Approach to Performance Testing  https://www.theserverside.com/news/1363731/Performance-Engineering-a-Practitioners-Approach-to-Performance-Testing
+
+Top 10 performance engineering techniques that work https://techbeacon.com/app-dev-testing/top-10-performance-engineering-techniques-work
+
+Top 10 Java Performance Problems and How to Solve Them https://www.eginnovations.com/blog/top-10-java-performance-problems/
+
+Troubleshooting Common Java Performance Problems https://alibaba-cloud.medium.com/troubleshooting-common-java-performance-problems-838ac49e0a2d
+
+
 
 
 Workload Modelling
@@ -22,11 +35,15 @@ Workload Modeling - Preparing for Large Events like the Melbourne Cup https://ww
 JAVA JVM GC
 ------------
 
-https://plumbr.io/java-garbage-collection-handbook
+Java Garbage Collection handbook https://plumbr.io/java-garbage-collection-handbook
+
+java.lang.OutOfMemoryError https://plumbr.io/outofmemoryerror
 
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
 
 https://stackify.com/what-is-java-garbage-collection/
+
+Best Practices for Enterprise Java Applications https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/enterprise-java-applications-on-vmware-best-practices-guide.pdf
 
 Java Virtual Machine Garbage Collection and Its Performance Impact https://granulate.io/java-virtual-machine-garbage-collection-and-its-performance-impact/
 
@@ -49,6 +66,8 @@ Java enterprise performance  https://www.dynatrace.com/resources/ebooks/javabook
 JVM ( java virtual machine) architecture - tutorial  https://www.youtube.com/watch?v=ZBJ0u9MaKtM
 
 Choose the best Garbage Collector in Java https://www.youtube.com/watch?v=2AZ0KKeXJSo
+
+Guide to the Most Important JVM Parameters https://www.baeldung.com/jvm-parameters
 
 
 .Net CLR GC
