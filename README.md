@@ -186,26 +186,26 @@ JMeter
 Grafana, InfluxDB, Prothemous
 --------------------------------
 
-https://github.com/bhattchaitanya/Grafana-Dashboard-Generator
+ Grafana-Dashboard-Generator   https://github.com/bhattchaitanya/Grafana-Dashboard-Generator
 
-https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul
+How to Use Grafana to Monitor JMeter Non-GUI Results - Part 2  https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul
 
-https://www.blazemeter.com/blog/how-to-use-grafana-to-monitor-jmeter-non-gui-results?utm_source=blog&utm_medium=BM_blog&utm_campaign=how-to-use-grafana-to-monitor-jmeter-non-gui-results2
-
-
-https://www.vinsguru.com/jmeter-real-time-results-influxdb-grafana/
+How to Use Grafana to Monitor JMeter Non-GUI Results https://www.blazemeter.com/blog/how-to-use-grafana-to-monitor-jmeter-non-gui-results?utm_source=blog&utm_medium=BM_blog&utm_campaign=how-to-use-grafana-to-monitor-jmeter-non-gui-results2
 
 
-https://www.vinsguru.com/jmeter-server-performance-monitoring-with-collectd-influxdb-grafana/
+JMeter – Real Time Results – InfluxDB & Grafana – Part 1 – Basic Setup https://www.vinsguru.com/jmeter-real-time-results-influxdb-grafana/
 
 
-https://swethapn.medium.com/jmeter-grafana-dashboard-with-influx-db-755ed24a6327
+JMeter – Server Performance Monitoring with Collectd + InfluxDB + Grafana https://www.vinsguru.com/jmeter-server-performance-monitoring-with-collectd-influxdb-grafana/
 
 
-https://www.linkedin.com/pulse/step-integration-grafana-jmeter-vishal-goyan/
+JMeter Grafana Dashboard with Influx DB https://swethapn.medium.com/jmeter-grafana-dashboard-with-influx-db-755ed24a6327
 
 
-https://neilkillen.com/2019/09/09/capture-monitor-jmeter-metrics-in-real-time-with-influxdb-grafana/
+Step by Step Integration of Grafana with JMeter https://www.linkedin.com/pulse/step-integration-grafana-jmeter-vishal-goyan/
+
+
+Capture & Monitor JMeter metrics in real-time with InfluxDB & Grafana https://neilkillen.com/2019/09/09/capture-monitor-jmeter-metrics-in-real-time-with-influxdb-grafana/
 
 
 
