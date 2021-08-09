@@ -73,6 +73,7 @@ Guide to the Most Important JVM Parameters https://www.baeldung.com/jvm-paramete
 .Net CLR GC
 ------------
 
+Fundamentals of garbage collection  https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
 
 
 Cloud Performance Engineering
