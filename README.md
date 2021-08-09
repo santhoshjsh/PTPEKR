@@ -46,6 +46,24 @@ What You Should Know About Microservice Architecture  https://theappsolutions.co
 Microservices vs Monolithic  https://sterling.com/microservices-vs-monolithic/
 
 
+Cache Performance 
+-------------------
+
+Caching Architectures | Microservices Caching Patterns | System Design Primer | Tech Primers https://www.youtube.com/watch?v=0x-ZV_vP73k
+
+What is Distributed Caching? Explained with Redis! https://www.youtube.com/watch?v=U3RkDLtS7uY
+
+Caching: What, Why and How with Hazelcast https://www.tothenew.com/blog/caching-what-why-and-how-with-hazelcast/
+
+Redis as Cache: How it Works and Why to Use it https://linuxiac.com/redis-as-cache/
+
+Distributed caching in Redis https://medium.com/@123williams93/distributed-caching-in-redis-8ff882bf79ac
+
+Spring Distributed Cache with Hazelcast https://medium.com/swlh/spring-distributed-cache-with-hazelcast-cfe0f6ad231 
+
+Spring Boot Caching https://www.javatpoint.com/spring-boot-caching
+
+
 JAVA JVM GC
 ------------
 
