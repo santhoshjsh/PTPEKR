@@ -116,6 +116,11 @@ How to Read Oracle AWR Report | Oracle Automatic Workload Repository
 https://www.youtube.com/watch?v=QPJL1fswbO4
 
 
+APM - AppDynamics
+------------------
+
+AppDynamics Courseware https://appdynamics-cdn.s3.amazonaws.com/education/courseware/courseware.html
+
 
 Code Profilers
 -----------------
