@@ -60,6 +60,8 @@ https://oracle-base.com/articles/10g/automatic-workload-repository-10g
 
 https://savvinov.com/2016/06/13/awr-analysis-another-case-study/
 
+https://www.doag.org/formes/pubfiles/6378426/2014-DB-Franck_Pachot-Interpreting_AWR_reports___straight_to_the_Goal-Manuskript.pdf
+
 AWR Report Analysis - How to read AWR Report - Oracle Performance Tuning
 https://www.youtube.com/watch?v=tLoc7w3cO8A
 
