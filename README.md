@@ -192,33 +192,32 @@ AWR Analysis
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ---------------
 
-https://isqlplus.com/oracle/performance-tuning/oracle-awr-report-analysis/
+Oracle AWR Report Analysis https://isqlplus.com/oracle/performance-tuning/oracle-awr-report-analysis/
 
-http://pafumi.net/AWR%20Reports.html
+AWR Reports http://pafumi.net/AWR%20Reports.html
 
-https://clouddba.co/awr-report-analysis-depth-part-1/
+AWR report analysis in 12c depth-part 1  https://clouddba.co/awr-report-analysis-depth-part-1/
 
-https://clouddba.co/awr-report-analysis-in-depth-part-2/
+AWR report analysis 12c in depth-part 2 https://clouddba.co/awr-report-analysis-in-depth-part-2/
 
-http://evdbt.com/wp-content/uploads/2018/10/AWR_Analysis-_Handouts.pdf
-
-
-https://expertoracle.com/2018/02/06/performance-tuning-basics-15-awr-report-analysis/
+Analysis of Three AWR Reports by Oracle http://evdbt.com/wp-content/uploads/2018/10/AWR_Analysis-_Handouts.pdf
 
 
-https://www.ibm.com/downloads/cas/WNK5D2QZ
+Performance Tuning Basics 15 : AWR Report Analysis https://expertoracle.com/2018/02/06/performance-tuning-basics-15-awr-report-analysis/
+
+IBM Oracle AWR report in-depth analysis https://www.ibm.com/downloads/cas/WNK5D2QZ
 
 
-http://www.nyoug.org/Presentations/2008/Sep/Ault_AWR.pdf
+AWR Report Detailed Analysis http://www.nyoug.org/Presentations/2008/Sep/Ault_AWR.pdf
 
 
-https://oracle-base.com/articles/10g/automatic-workload-repository-10g
+Automatic Workload Repository (AWR) in Oracle Database 10g  https://oracle-base.com/articles/10g/automatic-workload-repository-10g
 
 
-https://savvinov.com/2016/06/13/awr-analysis-another-case-study/
+AWR analysis: another case study https://savvinov.com/2016/06/13/awr-analysis-another-case-study/
 
 
-https://www.doag.org/formes/pubfiles/6378426/2014-DB-Franck_Pachot-Interpreting_AWR_reports___straight_to_the_Goal-Manuskript.pdf
+Interpreting AWR reports – straight to the Goal https://www.doag.org/formes/pubfiles/6378426/2014-DB-Franck_Pachot-Interpreting_AWR_reports___straight_to_the_Goal-Manuskript.pdf
 
 
 AWR Report Analysis - How to read AWR Report - Oracle Performance Tuning
