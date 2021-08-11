@@ -159,6 +159,10 @@ Thread Dump Analysis
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------------------
 
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+Thread Dump analysis https://javaeesupportpatterns.blogspot.com/p/thread-dump-analysis.html
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+
 Online Java Thread Dump Analyzer https://spotify.github.io/threaddump-analyzer/
 
 Thread Dump Analysis by SAP https://help.sap.com/saphelp_sm71_sp10/helpdata/en/10/3ca29d9ace4b68ac324d217ba7833f/frameset.htm
