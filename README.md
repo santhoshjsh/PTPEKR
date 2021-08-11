@@ -159,6 +159,26 @@ Thread Dump Analysis
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------------------
 
+Online Java Thread Dump Analyzer https://spotify.github.io/threaddump-analyzer/
+
+Thread Dump Analysis by SAP https://help.sap.com/saphelp_sm71_sp10/helpdata/en/10/3ca29d9ace4b68ac324d217ba7833f/frameset.htm
+
+How to Analyze Java Thread Dumps https://www.baeldung.com/java-analyze-thread-dumps
+
+HOW TO TAKE THREAD DUMPS? – 8 OPTIONS  https://blog.fastthread.io/2016/06/06/how-to-take-thread-dumps-7-options/
+
+Analysis against JVM Thread Dump - CPU High Usage Issue https://blogs.oracle.com/jiechen/analysis-against-jvm-thread-dump-cpu-high-usage-issue
+
+Thread Dumps Collection and Analysis tool by Adobe https://helpx.adobe.com/experience-manager/kb/thread-dumps-collection-analysis.html
+
+Java Thread Deadlock Example and Thread Dump Analysis using VisualVM https://avaldes.com/java-thread-deadlock-example-and-thread-dump-analysis-using-visualvm/
+
+Creating and Analyzing Thread Dumps  https://reflectoring.io/analyzing-thread-dumps/
+
+What is Thread Dump and How to Analyze them? https://geekflare.com/generate-analyze-thread-dumps/
+
+Thread Dump Analysis by Perf Matrix https://www.perfmatrix.com/thread-dump-analysis/
+
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Heap Dump Analysis
