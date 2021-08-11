@@ -185,6 +185,15 @@ Heap Dump Analysis
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ------------------
 
+How to use IBM HeapAnalyzer to diagnose Java heap issues https://www.ibm.com/support/pages/system/files/support/swg/swgdocs.nsf/0/3915a4eb7f8d587285257082006b296f/$FILE/HeapAnalyzer13WSTE0921.pdf
+
+Heap Dump – Overview by PerfMatrix https://www.perfmatrix.com/heap-dump-overview/
+
+Creating and Analyzing Java Heap Dumps https://reflectoring.io/create-analyze-heapdump/
+ 
+How to Generate JVM Heap Memory Dump? https://www.geeksforgeeks.org/how-to-generate-jvm-heap-memory-dump/
+
+How to analyze JVM Heap dump https://rcdfens.medium.com/how-to-analyze-jvm-heap-dump-6f0b46d34985
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
