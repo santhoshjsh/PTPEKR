@@ -160,8 +160,10 @@ Thread Dump Analysis
 --------------------
 
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
-Thread Dump analysis https://javaeesupportpatterns.blogspot.com/p/thread-dump-analysis.html
 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>
+Thread Dump analysis https://javaeesupportpatterns.blogspot.com/p/thread-dump-analysis.html
 
 Online Java Thread Dump Analyzer https://spotify.github.io/threaddump-analyzer/
 
