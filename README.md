@@ -25,12 +25,15 @@
 
  <h1 style="color:red;font-size:50px;"> Links </h1>  
 
- <B>System Design</B>
+ <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+ System Design<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
  --------------------
  System Design https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Basics
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------
 
 Performance Engineering: The What, The Why, and The How Explained https://dzone.com/articles/performance-engineering-the-what-why-and-hows-expl
@@ -45,8 +48,9 @@ Troubleshooting Common Java Performance Problems https://alibaba-cloud.medium.co
 
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Workload Modelling
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ---------------------------
 
 Performance Testing WorkLoad Modelling https://www.youtube.com/watch?v=RWNN01NyG6I
@@ -60,7 +64,9 @@ Workload Modelling 101  https://tangowhisky37.github.io/PracticalPerformanceAnal
 Workload Modeling - Preparing for Large Events like the Melbourne Cup https://www.flood.io/blog/workload-modeling-preparing-for-large-events-like-the-melbourne-cup
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Monolithic vs. Microservices
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ----------------------------
 
 Monolithic vs. Microservices Architecture https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
@@ -74,7 +80,9 @@ What You Should Know About Microservice Architecture  https://theappsolutions.co
 Microservices vs Monolithic  https://sterling.com/microservices-vs-monolithic/
 
 
-Cache Performance 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+Cache Performance
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -------------------
 
 Caching Architectures | Microservices Caching Patterns | System Design Primer | Tech Primers https://www.youtube.com/watch?v=0x-ZV_vP73k
@@ -92,7 +100,9 @@ Spring Distributed Cache with Hazelcast https://medium.com/swlh/spring-distribut
 Spring Boot Caching https://www.javatpoint.com/spring-boot-caching
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 JAVA JVM GC
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ------------
 
 Java Garbage Collection handbook https://plumbr.io/java-garbage-collection-handbook
@@ -130,29 +140,36 @@ Choose the best Garbage Collector in Java https://www.youtube.com/watch?v=2AZ0KK
 Guide to the Most Important JVM Parameters https://www.baeldung.com/jvm-parameters
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 .Net CLR GC
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ------------
 
 Fundamentals of garbage collection  https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Cloud Performance Engineering
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -------------------------------
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Thread Dump Analysis
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------------------
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Heap Dump Analysis
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ------------------
 
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 AWR Analysis
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ---------------
 
 https://isqlplus.com/oracle/performance-tuning/oracle-awr-report-analysis/
@@ -196,13 +213,16 @@ How to Read Oracle AWR Report | Oracle Automatic Workload Repository
 https://www.youtube.com/watch?v=QPJL1fswbO4
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 APM - AppDynamics
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ------------------
 
 AppDynamics Courseware https://appdynamics-cdn.s3.amazonaws.com/education/courseware/courseware.html
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Code Profilers
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -----------------
 
 A Guide to Java Profilers https://www.baeldung.com/java-profilers
@@ -225,25 +245,30 @@ JProfiler Overview https://www.ej-technologies.com/products/jprofiler/features.h
 
 YourKit Java Profiler Features https://www.yourkit.com/java/profiler/features/
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Performance Testing Acceralators
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ---------------------------------
 
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 LoadRunner
 -----------
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 
 
-
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 JMeter
----------
+-----------
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 
 
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Grafana, InfluxDB, Prothemous
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------------------------------
 
  Grafana-Dashboard-Generator   https://github.com/bhattchaitanya/Grafana-Dashboard-Generator
@@ -269,13 +294,15 @@ Capture & Monitor JMeter metrics in real-time with InfluxDB & Grafana https://ne
 
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Jenkins CI CD Git
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -------------------------
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Gatling
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------
 
 https://academy.gatling.io/
@@ -295,18 +322,23 @@ Gatling : Performance Testing Tool - By Naveen AutomationLabs  https://www.youtu
 Performance Testing using Gatling - Beginner Level (FREE !!!) https://www.udemy.com/course/performance-testing-using-gatling/
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Locust
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------
 
 
 
-
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 K6
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 ----
 
 
 
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Frameworks
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -----------
 
 
