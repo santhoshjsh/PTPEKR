@@ -297,6 +297,11 @@ JMeter
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -----------
 
+https://github.com/VadimKlimov/jmeter-listener-elasticsearch
+
+https://github.com/apress/pro-apache-jmeter
+
+JMeter in the cloud for distributed performance testing https://wilsonmar.github.io/cloud-jmeter/
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
