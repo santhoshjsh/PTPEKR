@@ -359,6 +359,27 @@ Gatling : Performance Testing Tool - By Naveen AutomationLabs  https://www.youtu
 
 Performance Testing using Gatling - Beginner Level (FREE !!!) https://www.udemy.com/course/performance-testing-using-gatling/
 
+Gatling - How to Save Response Body    https://devqa.io/gatling-save-response-body/
+
+Getting started with Gatling – Part 2   https://mwclearning.com/?p=1678
+
+Getting started with Gatling – Part 1  https://mwclearning.com/?p=1669
+
+
+Gatling Simulation from Scratch – Define Scenario (Part 3 of 4)   https://theperformanceengineer.com/2016/12/01/gatling-simulation-from-scratch-define-scenario/
+
+
+Gatling: Post requests and modular scripts  https://octoperf.com/blog/2020/08/18/kraken-gatling-post-forms-modular-scripts/#post-requests
+
+Accelerate performance with Gatling: POST HTTP REQUEST  https://medium.com/@knoldus/accelerate-performance-with-gatling-post-http-request-d183783bd3a8
+
+
+Gatling feeders and feeder strategies  https://blog.knoldus.com/gatling-feeders-and-feeder-strategies/
+
+
+
+
+
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Locust
