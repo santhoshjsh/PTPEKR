@@ -376,7 +376,9 @@ Accelerate performance with Gatling: POST HTTP REQUEST  https://medium.com/@knol
 
 Gatling feeders and feeder strategies  https://blog.knoldus.com/gatling-feeders-and-feeder-strategies/
 
+Some Gatling Experiments  https://gist.github.com/dsyer/1770630
 
+LearnGatlingConcepts  https://github.com/QAMilestoneAcademy/LearnGatlingConcepts/tree/master/src/test/scala/
 
 
 
