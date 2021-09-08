@@ -384,16 +384,45 @@ LearnGatlingConcepts  https://github.com/QAMilestoneAcademy/LearnGatlingConcepts
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
-Locust
+DevOps / Cloud - Performance Engineering
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 --------
+Cloud Performance Engineering - Top 5 Factors https://www.linkedin.com/pulse/cloud-performance-engineering-top-5-factors-venkata-goday/
 
+Top 5 ways to improve your AWS EC2 performance https://www.datadoghq.com/blog/top-5-ways-to-improve-your-aws-ec2-performance/
 
+Amazon Web Services Performance Tuning   https://docs.riak.com/riak/kv/latest/using/performance/amazon-web-services/index.html
 
-<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
-K6
-<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
-----
+13-Step Guide to Performance Testing in Kubernetes  https://dzone.com/articles/performance-testing-in-kubernetes
+
+Docker Container Performance Metrics to Monitor  https://sematext.com/blog/top-docker-metrics-to-watch/
+
+12 Best Docker Container Monitoring Tools  https://sematext.com/blog/docker-container-monitoring/
+
+13 Best Kubernetes Monitoring Tools: Free, Open-source & Paid [2021 Comparison] https://sematext.com/blog/kubernetes-monitoring-tools/
+
+Key Kubernetes Metrics and Resources to Monitor for Peak Cluster Performance  https://sematext.com/blog/kubernetes-metrics/
+
+10 Kubernetes Performance Tuning Tips and Best Practices https://opsani.com/blog/10-kubernetes-performance-tuning-tips-best-practices/
+
+Three Easy Ways to Improve a Container’s Performance https://blog.gurock.com/improve-container-performance/
+
+How to Optimize Docker Performance https://scoutapm.com/blog/docker-performance
+
+Docker performance tuning https://help.hcltechsw.com/commerce/9.0.0/admin/concepts/cpmdockertune.html
+
+Cloud vs. On-Premises Databases: How Does Performance Tuning Differ? https://www.quest.com/community/blogs/b/database-management/posts/cloud-vs-on-premises-databases-how-does-performance-tuning-differ
+
+Performance Engineering for Cloud Computing https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.3102&rep=rep1&type=pdf
+
+Performance and Capacity Themes for Cloud Computing http://www.redbooks.ibm.com/redpapers/pdfs/redp4876.pdf
+
+Performance Challenges in Cloud Computing https://www.cmg.org/wp-content/uploads/2014/03/1-Paliwal-Performance-Challenges-in-Cloud-Computing.pdf
+
+Testing Methodologies for Cloud Performance https://www.ijitee.org/wp-content/uploads/papers/v8i12/K20410981119.pdf
+
+How Netflix Tunes EC2 Instances for Performance https://www.brendangregg.com/Slides/AWSreInvent2017_performance_tuning_EC2.pdf
+
 
 
 
