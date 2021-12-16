@@ -377,6 +377,15 @@ Jenkins CI CD Git
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -------------------------
 
+How to Run a JMeter Test with Jenkins 2.0 Pipelines and GitHub https://www.blazemeter.com/blog/how-run-jmeter-test-jenkins-20-pipelines-and-github
+
+Run JMeter test from GIT using Jenkins https://octoperf.com/blog/2021/07/15/shift-left-with-jmeter/#introduction
+
+Best Practices – JMeter – Adding Performance Testing in CI / CD Pipelines https://www.vinsguru.com/best-practices-jmeter-performance-testing-in-continuous-delivery-pipeline/
+
+
+Configure Jenkins to Run and Show JMeter Tests
+https://www.baeldung.com/ops/jenkins-and-jmeter
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Gatling
@@ -471,16 +480,11 @@ Frameworks
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -----------
 
-performance-testing-framework
-https://github.com/serputko/performance-testing-framework
+Performance Testing Framework  https://github.com/serputko/performance-testing-framework
 
+JMETER Distributed Test Automation https://medium.com/@gundogdu.emre/jmeter-distribution-test-automation-3ea8dbd42278
 
-JMETER Distributed Test Automation
-https://medium.com/@gundogdu.emre/jmeter-distribution-test-automation-3ea8dbd42278
-
-
-JMeter – How to create a Data + Keyword Driven Framework for Performance Testing
-https://www.vinsguru.com/jmeter-how-to-create-a-data-keyword-driven-framework-for-performance-testing/
+JMeter – How to create a Data + Keyword Driven Framework for Performance Testing https://www.vinsguru.com/jmeter-how-to-create-a-data-keyword-driven-framework-for-performance-testing/
 
 
 
