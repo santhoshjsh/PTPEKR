@@ -431,7 +431,16 @@ Frameworks
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -----------
 
+performance-testing-framework
+https://github.com/serputko/performance-testing-framework
 
+
+JMETER Distributed Test Automation
+https://medium.com/@gundogdu.emre/jmeter-distribution-test-automation-3ea8dbd42278
+
+
+JMeter – How to create a Data + Keyword Driven Framework for Performance Testing
+https://www.vinsguru.com/jmeter-how-to-create-a-data-keyword-driven-framework-for-performance-testing/
 
 
 
