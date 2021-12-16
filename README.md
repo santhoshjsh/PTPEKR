@@ -46,6 +46,8 @@ Top 10 Java Performance Problems and How to Solve Them https://www.eginnovations
 
 Troubleshooting Common Java Performance Problems https://alibaba-cloud.medium.com/troubleshooting-common-java-performance-problems-838ac49e0a2d
 
+The Top 10 Mistakes in Performance Testing https://loadium.com/blog/the-top-10-mistakes-performance-testing
+
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
