@@ -81,6 +81,46 @@ Microservices vs Monolithic  https://sterling.com/microservices-vs-monolithic/
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+Database Performance Tuning
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+----------------------------
+
+Optimizing performance in Oracle Database https://www.ibm.com/docs/en/mam/7.6.0?topic=performance-optimizing-in-oracle-database
+
+Analyzing and Optimizing Oracle Database Performance – Part I https://blogs.sap.com/2014/12/20/analyzing-and-optimizing-oracle-database-performance-part-1/
+
+10 Popular Oracle Performance Metrics that Every DBA Should Know https://www.appdynamics.com/blog/engineering/10-popular-oracle-performance-metrics-that-every-dba-should-know/
+
+
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+Weblogic Server Performance Tuning
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+----------------------------
+
+Performance Tuning for WebLogic  https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/identity-manager/14-3/reference/performance-tuning/performance-tuning-for-weblogic.html
+
+WebLogic Server Performance and Tuning https://docs.oracle.com/cd/E13222_01/wls/docs81/perform/topten.html
+
+Performance tuning parameters https://lakshmiweblogicadmin.blogspot.com/2017/02/performance-tuning-parameters.html
+
+
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+Websphere Server Performance Tuning
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
+----------------------------
+
+WebSphere App Server Performance Tuning & Troubleshooting https://www.us.cgi.com/blog/2013/12/05/websphere-application-server-performance-tuning-and-troubleshooting
+
+Setting JVM verbose garbage collection and heap sizes on the WebSphere proxy server https://help.hcltechsw.com/sametime/9.0.1/tune/tun_was_jvm_heap.html
+
+How to Monitor & Identify Performance Issue in WebSphere? https://geekflare.com/websphere-performance-tuning-toolkit/
+
+How to Change WebSphere JVM Listener Port? https://geekflare.com/websphere-change-port/
+
+How to Enable JMX in WebSphere to Monitor using JConsole? https://geekflare.com/enable-jmx-websphere-for-jconsole/
+
+
+<g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 Cache Performance
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
 -------------------
