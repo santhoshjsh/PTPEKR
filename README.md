@@ -491,11 +491,8 @@ JMeter – How to create a Data + Keyword Driven Framework for Performance Testi
 
 
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
-
 eBooks
-
 <g-emoji class="g-emoji" alias="man_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png">👨‍🏫</g-emoji>
-
 -----------
 
 JVM Troubleshooting Guide https://www.javacodegeeks.com/minibook/jvm-troubleshooting-guide
